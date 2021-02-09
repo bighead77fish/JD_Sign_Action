@@ -58,5 +58,4 @@
 * [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
 
 
-2021/1/8  13:30
-2021/1/9  11:58 add dual cookie
+2021/2/9 11:00
